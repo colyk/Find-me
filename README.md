@@ -1,2 +1,2 @@
 # get-location
-Get location by using wifi BSSID and open base
+this script able to show your location on the map by using wifi BSSID and open base.
